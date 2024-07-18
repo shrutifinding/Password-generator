@@ -27,7 +27,7 @@ To get started, follow these steps:
 
 ## 🎨 Customization
 
-Customize the password generation process by modifying the `password_generator.ipynb` file. Adjust the character sets and password length to fit your needs.
+Customize the password generation process by modifying the `PasswordGenerator.ipynb` file. Adjust the character sets and password length to fit your needs.
 
 ## 🤝 Contributing
 
